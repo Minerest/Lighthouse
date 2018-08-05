@@ -1,0 +1,19 @@
+body{
+	background-color: lightgray;
+}
+
+#topImg {
+	zoom:2;
+	display: block;
+	margin: auto;
+	height: auto;
+	max-height: 100%;
+	width: :auto;
+	max-width: 100%;
+}
+
+#Title {
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
